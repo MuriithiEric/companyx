@@ -135,7 +135,7 @@ overflow:visible;
 	-ms-transition: height 0.3s;
 	-o-transition: height 0.3s;
 	transition: height 0.3s;
-	background:#18191b;
+	background:#213551;
 	border-bottom:solid 1px rgba(0,0,0,0.0);
 	}
 	
@@ -254,7 +254,7 @@ overflow:visible;
 	}
 	header.smaller:not(.header-bottom):not(.side-header){
 	height: 70px;
-	background:#18191b;
+	background:#213551;
 	}
 	header.smaller.no-border:not(.header-bottom):not(.side-header){
 	border:none;
@@ -1199,7 +1199,7 @@ overflow:visible;
 		
 	
 	#content{
-	background:#18191b;
+	background:#213551;
 	}
 
 
@@ -1207,7 +1207,7 @@ overflow:visible;
 /* section */
 /* ================================================== */
 	section{padding:90px 0 90px 0;}
-	section{background:#18191b;}
+	section{background:#213551;}
 	
 	section.custom-1{
 	border-bottom-left-radius: 100% 100%;
@@ -4524,7 +4524,7 @@ overflow:hidden;
 }
 
 .card{
-	background:#18191b;
+	background:#213551;
 	border:solid 1px #303030;
 }
 
@@ -5491,7 +5491,7 @@ a:hover, a:active, a:focus, img{
 }
 
 .bg-black{
-	background:#18191b;
+	background:#213551;
 }
 
 .de_light a, .de_light a:hover{
